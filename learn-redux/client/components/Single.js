@@ -5,7 +5,8 @@ class Single extends Component {
   render() {
     return (
       <div className="single-photo">
-      Something New</div>
+        I'm a single photo
+      </div>
      )
   }
 }
